@@ -29,7 +29,7 @@ Use Cases
 - Earn Bitcoin (online work, podcasting, gaming, become a developer...)
 - Receive remittances (low fees)
 - Pay locally and abroad (low fees)
-- Ask your local shops accept bitcoin
+- Ask your local shops accept Bitcoin
 - Exchange it peer-to-peer to your local currency
 
 ```
@@ -43,32 +43,32 @@ Your Bitcoin is harder to steal than cash.
 Your payments can't be censored.
 Your Bitcoin can't be frozen like a bank account.
 But **ONLY** if you have the backup/keys (12/24 words[^1])
-With these your bitcoin are **YOURS** alone!
+With these your Bitcoin are **YOURS** alone!
 
 This is called self-custody or non-custodial.
 Open the page and you'll find installation guides for self-custodial wallets.  
 
 ```
 Self-custody:
-Your keys, your bitcoin.
+Your keys, your Bitcoin.
 Be your own bank!
 ```
 
-If you buy bitcoin at an exchange or use a custodial wallet, it's like money in the bank.
+If you buy Bitcoin at an exchange or use a custodial wallet, it's like money in the bank.
 It can be frozen, it can be lost, what you own an what you do with your money can be tracked. This is called custodial.
 
 ```
 Custody:
-Not your keys, not your bitcoin!
+Not your keys, not your Bitcoin!
 ```
 
-Use bitcoin in self-custody as shown in this brochure and use it with your family, friends and business partners.
+Use Bitcoin in self-custody as shown in this brochure and use it with your family, friends and business partners.
 
 **NEVER SHARE** your backup/keys with anyone or store them digital or make screenshots.
 
 ## FIXED SUPPLY
 
-The US Dollar, Euro or other Currency have an infinite supply, but Bitcoin's supply is limited to < 21 million bitcoin, ever!
+The US Dollar, Euro or other Currency have an infinite supply, but Bitcoin's supply is limited to < 21 million Bitcoin, ever!
 
 ## BUY BITCOIN HERE
 
@@ -86,18 +86,17 @@ Relai - https://relai.app/
 
 ### Worldwide and without KYC[^2]:
 
-ROBOSATS - https://learn.robosats.com/ 
-
 Bisq - https://bisq.network/
- 
 
+ROBOSATS - https://learn.robosats.com/ 
+ 
 ## HARDWARE WALLETS or SIGNING DEVICES[^3]:
 
-A hardware wallet or signing device is a special type of bitcoin wallet which stores the user's private keys in a secure hardware device. 
-
-Blockstream - https://blockstream.com/
+A hardware wallet or signing device is a special type of Bitcoin wallet that stores the user's private keys in a secure hardware environment outside of a device (e.g computer) connected to the internet.
 
 BitBox - https://bitbox.swiss/
+
+Blockstream - https://blockstream.com/
 
 Coinkite - https://coinkite.com/
 
